@@ -27,7 +27,8 @@ public:
 	void set_rating(std::string rating) { this->rating = rating; }
 	std::string get_rating() const { return rating; }
 	
-	void get_watched() const { return watched; }
+	void set_watched(int watched) {this->watched = watched; }
+	int get_watched() const { return watched; }
 
 	//increment watched
 	void increment_watched() { ++watched; }
