@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Cpp-programs" Database="" Version="10.0.0">
+  <Project Name="udemy_cpp1" Path="udemy_cpp1/udemy_cpp1.project" Active="No"/>
+  <Project Name="First_Project" Path="First_Project/First_Project.project" Active="No"/>
+  <Project Name="Compiler_Warning" Path="Compiler_Warning/Compiler_Warning.project" Active="No"/>
+  <Project Name="AddingVariable" Path="AddingVariable/AddingVariable.project" Active="No"/>
+  <Project Name="PrimitiveTypes" Path="PrimitiveTypes/PrimitiveTypes.project" Active="No"/>
+  <Project Name="sizeofoperator" Path="sizeofoperator/sizeofoperator.project" Active="No"/>
+  <Project Name="Constants_ex" Path="Constants_ex/Constants_ex.project" Active="No"/>
+  <Project Name="Array_operations" Path="Array_operations/Array_operations.project" Active="No"/>
+  <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
+  <Project Name="Vector_challenge" Path="Vector_challenge/Vector_challenge.project" Active="No"/>
+  <Project Name="CStyleStrings" Path="CStyleStrings/CStyleStrings.project" Active="No"/>
+  <Project Name="CPPStrings" Path="CPPStrings/CPPStrings.project" Active="No"/>
+  <Project Name="Math" Path="Math/Math.project" Active="No"/>
+  <Project Name="Mystring-move-assignment" Path="Mystring-move-assignment/Mystring-move-assignment.project" Active="No"/>
+  <Project Name="Mystring-operator-methods" Path="Mystring-operator-methods/Mystring-operator-methods.project" Active="No"/>
+  <Project Name="Mystring-operator-functions" Path="Mystring-operator-functions/Mystring-operator-functions.project" Active="No"/>
+  <Project Name="Mystring-extraction-insertion" Path="Mystring-extraction-insertion/Mystring-extraction-insertion.project" Active="No"/>
+  <Project Name="Challenge_14" Path="Challenge_14/Challenge_14.project" Active="No"/>
+  <Project Name="DerivingOurFirstClass" Path="DerivingOurFirstClass/DerivingOurFirstClass.project" Active="No"/>
+  <Project Name="ProtectedMemberClassAccess" Path="ProtectedMemberClassAccess/ProtectedMemberClassAccess.project" Active="No"/>
+  <Project Name="ConstructorsAndDestructors" Path="ConstructorsAndDestructors/ConstructorsAndDestructors.project" Active="No"/>
+  <Project Name="BaseClassInitialization" Path="BaseClassInitialization/BaseClassInitialization.project" Active="No"/>
+  <Project Name="CopyConstructorAssignmentOperator" Path="CopyConstructorAssignmentOperator/CopyConstructorAssignmentOperator.project" Active="No"/>
+  <Project Name="RedefiningBaseClass" Path="RedefiningBaseClass/RedefiningBaseClass.project" Active="No"/>
+  <Project Name="BaseClassPointers" Path="BaseClassPointers/BaseClassPointers.project" Active="No"/>
+  <Project Name="VirtualFunctions" Path="VirtualFunctions/VirtualFunctions.project" Active="No"/>
+  <Project Name="VirtualDestructors" Path="VirtualDestructors/VirtualDestructors.project" Active="No"/>
+  <Project Name="UsingOverride" Path="UsingOverride/UsingOverride.project" Active="No"/>
+  <Project Name="UniquePointers" Path="UniquePointers/UniquePointers.project" Active="No"/>
+  <Project Name="SharedPointers" Path="SharedPointers/SharedPointers.project" Active="No"/>
+  <Project Name="MPG" Path="MPG/MPG.project" Active="No"/>
+  <Project Name="MPGFunction" Path="MPGFunction/MPGFunction.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="udemy_cpp1" ConfigName="Debug"/>
+      <Project Name="First_Project" ConfigName="Debug"/>
+      <Project Name="Compiler_Warning" ConfigName="Debug"/>
+      <Project Name="AddingVariable" ConfigName="Debug"/>
+      <Project Name="PrimitiveTypes" ConfigName="Debug"/>
+      <Project Name="sizeofoperator" ConfigName="Debug"/>
+      <Project Name="Constants_ex" ConfigName="Debug"/>
+      <Project Name="Array_operations" ConfigName="Debug"/>
+      <Project Name="Vectors" ConfigName="Debug"/>
+      <Project Name="Vector_challenge" ConfigName="Debug"/>
+      <Project Name="CStyleStrings" ConfigName="Debug"/>
+      <Project Name="CPPStrings" ConfigName="Debug"/>
+      <Project Name="Math" ConfigName="Debug"/>
+      <Project Name="Mystring-move-assignment" ConfigName="Debug"/>
+      <Project Name="Mystring-operator-methods" ConfigName="Debug"/>
+      <Project Name="Mystring-operator-functions" ConfigName="Debug"/>
+      <Project Name="Mystring-extraction-insertion" ConfigName="Debug"/>
+      <Project Name="Challenge_14" ConfigName="Debug"/>
+      <Project Name="DerivingOurFirstClass" ConfigName="Debug"/>
+      <Project Name="ProtectedMemberClassAccess" ConfigName="Debug"/>
+      <Project Name="ConstructorsAndDestructors" ConfigName="Debug"/>
+      <Project Name="BaseClassInitialization" ConfigName="Debug"/>
+      <Project Name="CopyConstructorAssignmentOperator" ConfigName="Debug"/>
+      <Project Name="RedefiningBaseClass" ConfigName="Debug"/>
+      <Project Name="BaseClassPointers" ConfigName="Debug"/>
+      <Project Name="VirtualFunctions" ConfigName="Debug"/>
+      <Project Name="VirtualDestructors" ConfigName="Debug"/>
+      <Project Name="UsingOverride" ConfigName="Debug"/>
+      <Project Name="UniquePointers" ConfigName="Debug"/>
+      <Project Name="SharedPointers" ConfigName="Debug"/>
+      <Project Name="MPG" ConfigName="Debug"/>
+      <Project Name="MPGFunction" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="udemy_cpp1" ConfigName="Release"/>
+      <Project Name="First_Project" ConfigName="Release"/>
+      <Project Name="Compiler_Warning" ConfigName="Release"/>
+      <Project Name="AddingVariable" ConfigName="Release"/>
+      <Project Name="PrimitiveTypes" ConfigName="Release"/>
+      <Project Name="sizeofoperator" ConfigName="Release"/>
+      <Project Name="Constants_ex" ConfigName="Release"/>
+      <Project Name="Array_operations" ConfigName="Release"/>
+      <Project Name="Vectors" ConfigName="Release"/>
+      <Project Name="Vector_challenge" ConfigName="Release"/>
+      <Project Name="CStyleStrings" ConfigName="Release"/>
+      <Project Name="CPPStrings" ConfigName="Release"/>
+      <Project Name="Math" ConfigName="Release"/>
+      <Project Name="Mystring-move-assignment" ConfigName="Release"/>
+      <Project Name="Mystring-operator-methods" ConfigName="Release"/>
+      <Project Name="Mystring-operator-functions" ConfigName="Release"/>
+      <Project Name="Mystring-extraction-insertion" ConfigName="Release"/>
+      <Project Name="Challenge_14" ConfigName="Release"/>
+      <Project Name="DerivingOurFirstClass" ConfigName="Release"/>
+      <Project Name="ProtectedMemberClassAccess" ConfigName="Release"/>
+      <Project Name="ConstructorsAndDestructors" ConfigName="Release"/>
+      <Project Name="BaseClassInitialization" ConfigName="Release"/>
+      <Project Name="CopyConstructorAssignmentOperator" ConfigName="Release"/>
+      <Project Name="RedefiningBaseClass" ConfigName="Release"/>
+      <Project Name="BaseClassPointers" ConfigName="Release"/>
+      <Project Name="VirtualFunctions" ConfigName="Release"/>
+      <Project Name="VirtualDestructors" ConfigName="Release"/>
+      <Project Name="UsingOverride" ConfigName="Release"/>
+      <Project Name="UniquePointers" ConfigName="Release"/>
+      <Project Name="SharedPointers" ConfigName="Release"/>
+      <Project Name="MPG" ConfigName="Release"/>
+      <Project Name="MPGFunction" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\Array_operations\\main.cpp",
+  "directory": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\Array_operations",
+  "command": "\"C:/Program Files (x86)/CodeBlocks/MinGW/bin/g++.exe\" -c C:\\Users\\krishnamm\\Documents\\Cpp-programs\\Array_operations\\main.cpp -o C:\\Users\\krishnamm\\Documents\\Cpp-programs\\Array_operations\\main.cpp.o  -std=c++14  -Wall  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\Constants_ex\\main.cpp",
+  "directory": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\Constants_ex",
+  "command": "\"C:/Program Files (x86)/CodeBlocks/MinGW/bin/g++.exe\" -c C:\\Users\\krishnamm\\Documents\\Cpp-programs\\Constants_ex\\main.cpp -o C:\\Users\\krishnamm\\Documents\\Cpp-programs\\Constants_ex\\main.cpp.o  -std=c++14  -Wall  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\First_Project\\main.cpp",
+  "directory": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\First_Project",
+  "command": "\"C:/Program Files (x86)/CodeBlocks/MinGW/bin/g++.exe\" -c C:\\Users\\krishnamm\\Documents\\Cpp-programs\\First_Project\\main.cpp -o C:\\Users\\krishnamm\\Documents\\Cpp-programs\\First_Project\\main.cpp.o  -std=c++14  -Wall  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\udemy_cpp1\\main.cpp",
+  "directory": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\udemy_cpp1",
+  "command": "\"C:/Program Files (x86)/CodeBlocks/MinGW/bin/g++.exe\" -c C:\\Users\\krishnamm\\Documents\\Cpp-programs\\udemy_cpp1\\main.cpp -o C:\\Users\\krishnamm\\Documents\\Cpp-programs\\udemy_cpp1\\main.cpp.o  -std=c++14  -Wall  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\Compiler_Warning\\main.cpp",
+  "directory": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\Compiler_Warning",
+  "command": "\"C:/Program Files (x86)/CodeBlocks/MinGW/bin/g++.exe\" -c C:\\Users\\krishnamm\\Documents\\Cpp-programs\\Compiler_Warning\\main.cpp -o C:\\Users\\krishnamm\\Documents\\Cpp-programs\\Compiler_Warning\\main.cpp.o  -std=c++14  -Wall  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\PrimitiveTypes\\main.cpp",
+  "directory": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\PrimitiveTypes",
+  "command": "\"C:/Program Files (x86)/CodeBlocks/MinGW/bin/g++.exe\" -c C:\\Users\\krishnamm\\Documents\\Cpp-programs\\PrimitiveTypes\\main.cpp -o C:\\Users\\krishnamm\\Documents\\Cpp-programs\\PrimitiveTypes\\main.cpp.o  -std=c++14  -Wall  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\AddingVariable\\main.cpp",
+  "directory": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\AddingVariable",
+  "command": "\"C:/Program Files (x86)/CodeBlocks/MinGW/bin/g++.exe\" -c C:\\Users\\krishnamm\\Documents\\Cpp-programs\\AddingVariable\\main.cpp -o C:\\Users\\krishnamm\\Documents\\Cpp-programs\\AddingVariable\\main.cpp.o  -std=c++14  -Wall  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\sizeofoperator\\main.cpp",
+  "directory": "C:\\Users\\krishnamm\\Documents\\Cpp-programs\\sizeofoperator",
+  "command": "\"C:/Program Files (x86)/CodeBlocks/MinGW/bin/g++.exe\" -c C:\\Users\\krishnamm\\Documents\\Cpp-programs\\sizeofoperator\\main.cpp -o C:\\Users\\krishnamm\\Documents\\Cpp-programs\\sizeofoperator\\main.cpp.o  -std=c++14  -Wall  -g  -O0  -Wall -I. -I."
+ }]
