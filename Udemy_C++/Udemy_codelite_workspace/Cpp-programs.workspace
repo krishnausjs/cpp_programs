@@ -31,7 +31,20 @@
   <Project Name="UniquePointers" Path="UniquePointers/UniquePointers.project" Active="No"/>
   <Project Name="SharedPointers" Path="SharedPointers/SharedPointers.project" Active="No"/>
   <Project Name="MPG" Path="MPG/MPG.project" Active="No"/>
-  <Project Name="MPGFunction" Path="MPGFunction/MPGFunction.project" Active="Yes"/>
+  <Project Name="MPGFunction" Path="MPGFunction/MPGFunction.project" Active="No"/>
+  <Project Name="MPGFunctionsMultipleExceptions" Path="MPGFunctionsMultipleExceptions/MPGFunctionsMultipleExceptions.project" Active="No"/>
+  <Project Name="StackUnwinding" Path="StackUnwinding/StackUnwinding.project" Active="No"/>
+  <Project Name="MPGFunctionExceptionClasses" Path="MPGFunctionExceptionClasses/MPGFunctionExceptionClasses.project" Active="No"/>
+  <Project Name="ConstructorException" Path="ConstructorException/ConstructorException.project" Active="Yes"/>
+  <Project Name="ReadFile_1" Path="ReadFile_1/ReadFile_1.project" Active="No"/>
+  <Project Name="ReadFile_2" Path="ReadFile_2/ReadFile_2.project" Active="No"/>
+  <Project Name="WriteFile" Path="WriteFile/WriteFile.project" Active="No"/>
+  <Project Name="CopyFile_1" Path="CopyFile_1/CopyFile_1.project" Active="No"/>
+  <Project Name="StringStream" Path="StringStream/StringStream.project" Active="No"/>
+  <Project Name="FunctionTemplate" Path="FunctionTemplate/FunctionTemplate.project" Active="No"/>
+  <Project Name="ClassTemplates" Path="ClassTemplates/ClassTemplates.project" Active="No"/>
+  <Project Name="ClassTemplateArray" Path="ClassTemplateArray/ClassTemplateArray.project" Active="No"/>
+  <Project Name="Iterators" Path="Iterators/Iterators.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -67,6 +80,19 @@
       <Project Name="SharedPointers" ConfigName="Debug"/>
       <Project Name="MPG" ConfigName="Debug"/>
       <Project Name="MPGFunction" ConfigName="Debug"/>
+      <Project Name="MPGFunctionsMultipleExceptions" ConfigName="Debug"/>
+      <Project Name="StackUnwinding" ConfigName="Debug"/>
+      <Project Name="MPGFunctionExceptionClasses" ConfigName="Debug"/>
+      <Project Name="ConstructorException" ConfigName="Debug"/>
+      <Project Name="ReadFile_1" ConfigName="Debug"/>
+      <Project Name="ReadFile_2" ConfigName="Debug"/>
+      <Project Name="WriteFile" ConfigName="Debug"/>
+      <Project Name="CopyFile_1" ConfigName="Debug"/>
+      <Project Name="StringStream" ConfigName="Debug"/>
+      <Project Name="FunctionTemplate" ConfigName="Debug"/>
+      <Project Name="ClassTemplates" ConfigName="Debug"/>
+      <Project Name="ClassTemplateArray" ConfigName="Debug"/>
+      <Project Name="Iterators" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -102,6 +128,19 @@
       <Project Name="SharedPointers" ConfigName="Release"/>
       <Project Name="MPG" ConfigName="Release"/>
       <Project Name="MPGFunction" ConfigName="Release"/>
+      <Project Name="MPGFunctionsMultipleExceptions" ConfigName="Release"/>
+      <Project Name="StackUnwinding" ConfigName="Release"/>
+      <Project Name="MPGFunctionExceptionClasses" ConfigName="Release"/>
+      <Project Name="ConstructorException" ConfigName="Release"/>
+      <Project Name="ReadFile_1" ConfigName="Release"/>
+      <Project Name="ReadFile_2" ConfigName="Release"/>
+      <Project Name="WriteFile" ConfigName="Release"/>
+      <Project Name="CopyFile_1" ConfigName="Release"/>
+      <Project Name="StringStream" ConfigName="Release"/>
+      <Project Name="FunctionTemplate" ConfigName="Release"/>
+      <Project Name="ClassTemplates" ConfigName="Release"/>
+      <Project Name="ClassTemplateArray" ConfigName="Release"/>
+      <Project Name="Iterators" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

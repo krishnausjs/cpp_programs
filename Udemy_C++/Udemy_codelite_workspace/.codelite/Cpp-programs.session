@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="C:\Murali\Code\github\cpp_programs\Udemy_C++\Udemy_codelite_workspace\Cpp-programs.workspace">
-  <int Value="0" Name="m_selectedTab"/>
+  <int Value="7" Name="m_selectedTab"/>
   <wxString Value="C:\Murali\Code\github\cpp_programs\Udemy_C++\Udemy_codelite_workspace\Cpp-programs.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
@@ -52,9 +52,16 @@
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Murali\Code\github\cpp_programs\Udemy_C++\Udemy_codelite_workspace\FunctionTemplate\main.cpp" Name="FileName"/>
+      <int Value="15" Name="FirstVisibleLine"/>
+      <int Value="25" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
   </TabInfoArray>
   <SerializedObject Name="m_breakpoints">
-    <long Value="7" Name="Count"/>
+    <long Value="8" Name="Count"/>
     <SerializedObject Name="Breakpoint0">
       <wxString Value="C:\Murali\Code\github\cpp_programs\Udemy_C++\Udemy_codelite_workspace\CopyConstructorAssignmentOperator\main.cpp" Name="file"/>
       <int Value="58" Name="lineno"/>
@@ -88,6 +95,22 @@
       <int Value="0" Name="origin"/>
     </SerializedObject>
     <SerializedObject Name="Breakpoint2">
+      <wxString Value="C:\Murali\Code\github\cpp_programs\Udemy_C++\Udemy_codelite_workspace\FunctionTemplate\main.cpp" Name="file"/>
+      <int Value="30" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint3">
       <wxString Value="C:\Murali\Code\github\cpp_programs\Udemy_C++\Udemy_codelite_workspace\Mystring-move-assignment\Mystring.cpp" Name="file"/>
       <int Value="55" Name="lineno"/>
       <wxString Value="" Name="function_name"/>
@@ -103,7 +126,7 @@
       <wxString Value="" Name="conditions"/>
       <int Value="0" Name="origin"/>
     </SerializedObject>
-    <SerializedObject Name="Breakpoint3">
+    <SerializedObject Name="Breakpoint4">
       <wxString Value="C:\Murali\Code\github\cpp_programs\Udemy_C++\Udemy_codelite_workspace\Mystring-move-assignment\main.cpp" Name="file"/>
       <int Value="9" Name="lineno"/>
       <wxString Value="" Name="function_name"/>
@@ -119,7 +142,7 @@
       <wxString Value="" Name="conditions"/>
       <int Value="0" Name="origin"/>
     </SerializedObject>
-    <SerializedObject Name="Breakpoint4">
+    <SerializedObject Name="Breakpoint5">
       <wxString Value="C:\Murali\Code\github\cpp_programs\Udemy_C++\Udemy_codelite_workspace\RedefiningBaseClass\Savings_Account.h" Name="file"/>
       <int Value="7" Name="lineno"/>
       <wxString Value="" Name="function_name"/>
@@ -135,7 +158,7 @@
       <wxString Value="" Name="conditions"/>
       <int Value="0" Name="origin"/>
     </SerializedObject>
-    <SerializedObject Name="Breakpoint5">
+    <SerializedObject Name="Breakpoint6">
       <wxString Value="C:\Users\krishnamm\Documents\Cpp-programs\DetectLoopInLL\main.cpp" Name="file"/>
       <int Value="101" Name="lineno"/>
       <wxString Value="" Name="function_name"/>
@@ -151,7 +174,7 @@
       <wxString Value="" Name="conditions"/>
       <int Value="0" Name="origin"/>
     </SerializedObject>
-    <SerializedObject Name="Breakpoint6">
+    <SerializedObject Name="Breakpoint7">
       <wxString Value="C:\Users\krishnamm\Documents\Cpp-programs\DetectLoopInLL\main.cpp" Name="file"/>
       <int Value="83" Name="lineno"/>
       <wxString Value="" Name="function_name"/>

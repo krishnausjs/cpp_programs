@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ MPGFunction - Debug ]----------"
-	@cd "MPGFunction" && "$(MAKE)" -f  "MPGFunction.mk"
+	@echo "----------Building project:[ ConstructorException - Debug ]----------"
+	@cd "ConstructorException" && "$(MAKE)" -f  "ConstructorException.mk"
 clean:
-	@echo "----------Cleaning project:[ MPGFunction - Debug ]----------"
-	@cd "MPGFunction" && "$(MAKE)" -f  "MPGFunction.mk" clean
+	@echo "----------Cleaning project:[ ConstructorException - Debug ]----------"
+	@cd "ConstructorException" && "$(MAKE)" -f  "ConstructorException.mk" clean
